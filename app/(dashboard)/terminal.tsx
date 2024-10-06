@@ -7,12 +7,8 @@ export function Terminal() {
   const [terminalStep, setTerminalStep] = useState(0);
   const [copied, setCopied] = useState(false);
   const terminalSteps = [
-    'git clone https://github.com/leerob/next-saas-starter',
-    'pnpm install',
-    'pnpm db:setup',
-    'pnpm db:migrate',
-    'pnpm db:seed',
-    'pnpm dev 🎉',
+    'git clone https://github.com/riseworksco/sojo-clinic-ai.git',
+    'python manage.py run',
   ];
 
   useEffect(() => {
