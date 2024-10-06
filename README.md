@@ -1,4 +1,4 @@
-# Next.js SaaS Starter
+# Sojo Clinic AI
 
 This is a starter template for building a SaaS application using **Next.js** with support for authentication, Stripe integration for payments, and a dashboard for logged-in users.
 
@@ -42,8 +42,8 @@ Fun fact: the majority of the UI for this application was built with [v0](https:
 ## Getting Started
 
 ```bash
-git clone https://github.com/leerob/next-saas-starter
-cd next-saas-starter
+#git clone https://github.com/leerob/next-saas-starter
+#cd next-saas-starter
 pnpm install
 ```
 
